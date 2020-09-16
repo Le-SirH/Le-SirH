@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Discord-7289da?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t4e2nqJ)
-[![](https://img.shields.io/badge/YouTube-c4302b?&style=for-the-badge&logo=youtube&logoColor=white)]()
-[![](https://img.shields.io/badge/Stack%20Overflow-F48024?&style=for-the-badge&logo=stackoverflow&logoColor=white)]()
+[![](https://img.shields.io/badge/YouTube-c4302b?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg)
+[![](https://img.shields.io/badge/Stack%20Overflow-F48024?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11364754/lesirh)
 
 ## Techology Stack
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.google.com/search?q=javascript)
