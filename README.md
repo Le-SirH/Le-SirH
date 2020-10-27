@@ -14,6 +14,7 @@
 [![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://www.google.com/search?q=reactjs)
 [![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](https://www.google.com/search?q=react%20redux)
 [![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)](https://www.google.com/search?q=express)
+[![](https://img.shields.io/badge/Deno-36454f?&style=for-the-badge&logo=deno&logoColor=white)](https://www.google.com/search?q=deno)
 [![](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](https://www.google.com/search?q=jquery)
 [![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.google.com/search?q=bootstrap)
 [![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.google.com/search?q=mongodb)
@@ -26,5 +27,4 @@
 ## Learning
 [![](https://img.shields.io/badge/Docker-blue?&style=for-the-badge&logo=docker&logoColor=white)](https://www.google.com/search?q=docker)
 [![](https://img.shields.io/badge/GraphQL-e535ab?&style=for-the-badge&logo=graphql&logoColor=white)](https://www.google.com/search?q=graphql)
-[![](https://img.shields.io/badge/Deno-36454f?&style=for-the-badge&logo=deno&logoColor=white)](https://www.google.com/search?q=deno)
 [![](https://img.shields.io/badge/Electron-171C2D?&style=for-the-badge&logo=electron&logoColor=white)](https://www.google.com/search?q=electronjs)
