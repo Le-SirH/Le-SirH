@@ -1,4 +1,5 @@
-[![](https://img.shields.io/badge/Discord-7289da?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t4e2nqJ)
+[![](https://img.shields.io/badge/TheTypingMatch-7289da?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t4e2nqJ)
+[![](https://img.shields.io/badge/Sirver-7289da?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RYe7VvUGYM)
 [![](https://img.shields.io/badge/YouTube-c4302b?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg)
 [![](https://img.shields.io/badge/Stack%20Overflow-F48024?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11364754/lesirh)
 
