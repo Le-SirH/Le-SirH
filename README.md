@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/YouTube-c4302b?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg)
 [![](https://img.shields.io/badge/Stack%20Overflow-F48024?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11364754/lesirh)
 
-## Techology Stack
+## Technology Stack
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.google.com/search?q=javascript)
 [![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.google.com/search?q=typescript)
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://www.google.com/search?q=nodejs)
