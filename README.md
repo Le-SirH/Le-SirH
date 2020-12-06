@@ -1,6 +1,14 @@
-[![](https://img.shields.io/badge/Discord-7289da?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RYe7VvUGYM)
-[![](https://img.shields.io/badge/YouTube-c4302b?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg)
-[![](https://img.shields.io/badge/Stack%20Overflow-F48024?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11364754/lesirh)
+<p align="right">
+  <a href="https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg">
+    <img width="40" alt="YouTube" src="https://i.pinimg.com/originals/37/17/bd/3717bd3e3e6f2c23a8635eb76c37140c.png">
+  </a>
+  <a href="https://discord.gg/RYe7VvUGYM">
+    <img width="40" alt="Discord" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg">
+  </a>
+  <a href="https://stackoverflow.com/users/11364754/lesirh">
+    <img width="40" alt="Stack Overflow" src="https://icons.veryicon.com/png/o/brands/logo-1/stack-overflow-line-1.png">
+  </a>
+</p>
 
 ## Technology Stack
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.google.com/search?q=javascript)
