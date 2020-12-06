@@ -1,15 +1,3 @@
-<p align="right">
-  <a href="https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg">
-    <img width="40" alt="YouTube" src="https://i.pinimg.com/originals/37/17/bd/3717bd3e3e6f2c23a8635eb76c37140c.png">
-  </a>
-  <a href="https://discord.gg/RYe7VvUGYM">
-    <img width="40" alt="Discord" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg">
-  </a>
-  <a href="https://stackoverflow.com/users/11364754/lesirh">
-    <img width="40" alt="Stack Overflow" src="https://icons.veryicon.com/png/o/brands/logo-1/stack-overflow-line-1.png">
-  </a>
-</p>
-
 ## Technology Stack
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.google.com/search?q=javascript)
 [![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)](https://www.google.com/search?q=typescript)
@@ -32,3 +20,15 @@
 ![](https://img.shields.io/website?url=http%3A%2F%2Fthetypingmatch.com&color=c82846&style=flat-square)
 
 TheTypingMatch is an upcoming competitive typing website for typists to track their progress and compete in different typing styles. It will be designed for customization & feedback for those who are serious about improving their competition.
+
+<p align="right">
+  <a href="https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg">
+    <img width="35" alt="YouTube" src="https://i.pinimg.com/originals/37/17/bd/3717bd3e3e6f2c23a8635eb76c37140c.png">
+  </a>
+  <a href="https://discord.gg/RYe7VvUGYM">
+    <img width="35" alt="Discord" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg">
+  </a>
+  <a href="https://stackoverflow.com/users/11364754/lesirh">
+    <img width="35" alt="Stack Overflow" src="https://icons.veryicon.com/png/o/brands/logo-1/stack-overflow-line-1.png">
+  </a>
+</p>
