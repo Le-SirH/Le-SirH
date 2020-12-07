@@ -10,7 +10,7 @@
 
 [![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)](https://www.google.com/search?q=reactjs)
 [![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)](https://www.google.com/search?q=react%20redux)
-[![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)](https://www.google.com/search?q=express)
+[![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square&logo=node.js&logoColor=white)](https://www.google.com/search?q=express)
 [![](https://img.shields.io/badge/Deno-36454f?&style=flat-square&logo=deno&logoColor=white)](https://www.google.com/search?q=deno)
 [![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)](https://www.google.com/search?q=mongodb)
 [![](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)](https://www.google.com/search?q=mysql)
