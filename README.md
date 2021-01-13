@@ -37,16 +37,6 @@ Hello, my name is Ryan. I am a self-taught developer and competitive typist stud
 <h2 align="center">Stats</h2>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-🌆 Daytime    324 commits    █████████░░░░░░░░░░░░░░░░   37.54% 
-🌃 Evening    350 commits    ██████████░░░░░░░░░░░░░░░   40.56% 
-🌙 Night      89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.31%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
