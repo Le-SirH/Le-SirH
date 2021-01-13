@@ -1,34 +1,35 @@
-## Technology Stack
-[![](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://www.google.com/search?q=javascript)
-[![](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)](https://www.google.com/search?q=typescript)
-[![](https://img.shields.io/badge/Node%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)](https://www.google.com/search?q=nodejs)
-[![](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white)](https://www.google.com/search?q=pythonlang)
-[![](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white)](https://www.google.com/search?q=rustlang)
-[![](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.google.com/search?q=java)
-[![](https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)](https://www.google.com/search?q=html5)
-[![](https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)](https://www.google.com/search?q=css3)
-
-[![](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)](https://www.google.com/search?q=reactjs)
-[![](https://img.shields.io/badge/Redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)](https://www.google.com/search?q=react%20redux)
-[![](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square&logo=node.js&logoColor=white)](https://www.google.com/search?q=express)
-[![](https://img.shields.io/badge/Deno-36454f?&style=flat-square&logo=deno&logoColor=white)](https://www.google.com/search?q=deno)
-[![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)](https://www.google.com/search?q=mongodb)
-[![](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)](https://www.google.com/search?q=mysql)
-
-## [TheTypingMatch](https://github.com/TheTypingMatch)
-![](https://img.shields.io/discord/650827847941881860?logo=discord&color=7289DA&style=flat-square)
-![](https://img.shields.io/website?url=http%3A%2F%2Fthetypingmatch.com&color=c82846&style=flat-square)
-
-TheTypingMatch is an upcoming competitive typing website for typists to track their progress and compete in different typing styles. It will be designed for customization & feedback for those who are serious about improving their competition.
-
-<p align="right">
-  <a href="https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg">
-    <img width="35" alt="YouTube" src="https://i.pinimg.com/originals/37/17/bd/3717bd3e3e6f2c23a8635eb76c37140c.png">
-  </a>
-  <a href="https://discord.gg/RYe7VvUGYM">
-    <img width="35" alt="Discord" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg">
-  </a>
-  <a href="https://stackoverflow.com/users/11364754/lesirh">
-    <img width="35" alt="Stack Overflow" src="https://icons.veryicon.com/png/o/brands/logo-1/stack-overflow-line-1.png">
-  </a>
+<h1 align="center">About</h1>
+<p align="center">
+  <img src="https://img.shields.io/website?url=http%3A%2F%2Fthetypingmatch.com&color=c82846&style=for-the-badge" />
+  <a href="https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/LeSirH"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/11364754/lesirh"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
+  <a href="https://discord.gg/t4e2nqJ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+<p align="center">
+  Hello, my name is Ryan. I am a self-taught developer and competitive typist studying Mathematics, Computer Science. Most often, I write applications, bots, and tools for all my projects. My latest project is <a href="https://thetypingmatch.com/">TheTypingMatch</a>, an upcoming website for typists to track their progress and compete with customized experiences.
+</p>
+<hr />
+<h2 align="center">Technology Stack<h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
