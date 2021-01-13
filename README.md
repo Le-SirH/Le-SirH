@@ -33,3 +33,6 @@ Hello, my name is Ryan. I am a self-taught developer and competitive typist stud
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
