@@ -37,7 +37,6 @@ Hello, my name is Ryan. I am a self-taught developer and competitive typist stud
 <h2 align="center">GitHub Stats</h2>
 
 <!--START_SECTION:waka-->
-
 📊 **This Week I Spent My Time On** 
 
 ```text
