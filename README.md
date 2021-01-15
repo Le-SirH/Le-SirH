@@ -43,10 +43,10 @@ Hello, my name is Ryan. I am a self-taught developer and competitive typist stud
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               2 hrs 34 mins       █████████████████████████   100.0%
+JavaScript               3 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 34 mins       █████████████████████████   100.0%
+Linux                    3 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
