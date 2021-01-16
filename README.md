@@ -9,7 +9,6 @@
 <samp align="center">
 Hello, my name is Ryan. I am a self-taught developer and competitive typist studying Mathematics and Computer Science. Most often, I write applications, bots, and tools for all my projects. My latest project is <a href="https://thetypingmatch.com/">TheTypingMatch</a>, an upcoming website for typists to track their progress and compete with customized experiences.
 </samp>
-<hr />
 <h2 align="center">Technology Stack<h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -33,7 +32,6 @@ Hello, my name is Ryan. I am a self-taught developer and competitive typist stud
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
-<hr />
 <h2 align="center">GitHub Stats</h2>
 
 <!--START_SECTION:waka-->
