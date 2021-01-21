@@ -1,6 +1,6 @@
 <h1 align="center">About</h1>
 <p align="center">
-  <img src="https://img.shields.io/website?url=http%3A%2F%2Fthetypingmatch.com&color=c82846&style=for-the-badge" />
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fthetypingmatch.com&color=c82846&style=for-the-badge" />
   <a href="https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/LeSirH"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/11364754/lesirh"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
