@@ -7,7 +7,7 @@
   <a href="https://discord.gg/t4e2nqJ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 <samp align="center">
-Hello, my name is Ryan. I am a self-taught developer and competitive typist studying Mathematics and Computer Science. Most often, I write applications, bots, and tools for all my projects. My latest project is <a href="https://thetypingmatch.com/">TheTypingMatch</a>, an upcoming website for typists to track their progress and compete with customized experiences.
+Hello, my name is Ryan. I am a self-taught developer and competitive typist studying Mathematics and Computer Science. I write web applications, bots, and tools for all my projects. My latest project is <a href="https://thetypingmatch.com/">TheTypingMatch</a>, a website for typists to track their progress with customized experiences to improve their competition.
 </samp>
 <h2 align="center">Technology Stack<h2>
 <p align="center">
