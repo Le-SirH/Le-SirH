@@ -5,7 +5,7 @@
   <li>Ethical Hacking</li>
   <li>Docker & Kubernetes</li>
 </ul>
-<p>Recently, I have been working on <a href="https://thetypingmatch.com">TheTypingMatch</a>, a minimal typing website with a stats tracker. In the past, I have built tools for <a href="https://github.com/Dapp3rCraft">Dapp3rCraft</a>, a small Minecraft smp community, and several Discord bots.</p>
+<p>Recently, I have been working on <a href="https://thetypingmatch.com">TheTypingMatch</a>, a minimal typing website with a stats tracker. In the past, I have built tools for <a href="http://dapp3rcraft.com">Dapp3rCraft</a>, a small Minecraft smp community and several Discord bots.</p>
 
 <hr />
 <p align="center">
