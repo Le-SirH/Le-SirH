@@ -1,4 +1,3 @@
-<h1 align="center">About</h1>
 <p align="center">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fthetypingmatch.com&color=c82846&style=for-the-badge" />
   <a href="https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -6,10 +5,7 @@
   <a href="https://stackoverflow.com/users/11364754/lesirh"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
   <a href="https://discord.gg/t4e2nqJ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-<samp align="center">
-Hello, my name is Ryan. I am a self-taught developer and competitive typist studying Mathematics and Computer Science. I write web applications, bots, and tools for all my projects. My latest project is <a href="https://thetypingmatch.com/">TheTypingMatch</a>, a website for typists to track their progress with customized experiences to improve their competition.
-</samp>
-<h2 align="center">Technology Stack<h2>
+<h2 align="center">Tools I Use<h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -32,34 +28,3 @@ Hello, my name is Ryan. I am a self-taught developer and competitive typist stud
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
-<h2 align="center">GitHub Stats</h2>
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Denver
-
-💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   34.29% 
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
-
-```
-
-
-
-<!--END_SECTION:waka-->
