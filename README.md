@@ -1,4 +1,4 @@
-<h2 align="center"></h2>
+<h2 align="center">About</h2>
 <p>I am self-taught developer and competitive typist. I have been learning about software engineering for about 4 years, originally getting started for the learning experience. Mainly, I use JavaScript, Python, and Rust for my projects and development. I am currently learning about the following subjects:</p>
 <ul>
   <li>Machine Learning</li>
