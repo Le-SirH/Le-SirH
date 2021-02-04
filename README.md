@@ -1,3 +1,4 @@
+<h1 align="center">Media<h1>
 <p align="center">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fthetypingmatch.com&color=c82846&style=for-the-badge" />
   <a href="https://www.youtube.com/channel/UCpv2tyHoB6x5-Lb03xMYeCg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -5,7 +6,7 @@
   <a href="https://stackoverflow.com/users/11364754/lesirh"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
   <a href="https://discord.gg/t4e2nqJ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-<h2 align="center">Tools I Use<h2>
+<h1 align="center">Tools I Use<h1>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
