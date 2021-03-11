@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  I'm a self-taught developer & competitive typist. I've been learning about software development for about 4 years now, originally getting started for fun. Mainly, I use JavaScript, Python, and Rust for my project. Recently, I have been working on <a href="https://thetypingmatch.com">TheTypingMatch</a>, a minimal typing website with a stats tracker, an in the past, I've built tools for <a href="http://dapp3rcraft.com">Dapp3rCraft</a>, a small Minecraft smp community and several Discord bots.
+  I'm a self-taught developer & competitive typist. I've been learning about software development for about 4 years now, originally getting started for fun. Mainly, I use JavaScript, Python, and Rust for my project. Recently, I've been working on <a href="https://thetypingmatch.com">TheTypingMatch</a>, a minimal typing website with a stats tracker, and in the past, I've built tools for <a href="http://dapp3rcraft.com">Dapp3rCraft</a>, a Minecraft smp community and several Discord bots.
 </p>
