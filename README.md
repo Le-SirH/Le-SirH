@@ -1,4 +1,4 @@
-![welcome](https://user-images.githubusercontent.com/46948579/112955371-96238280-90fc-11eb-9124-e030d67b0174.PNG)
+![welcome](https://user-images.githubusercontent.com/46948579/115217554-dbffb500-a0c2-11eb-88c6-9b4eb1484633.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  I'm a self-taught developer & competitive typist. I've been learning about software development for about 4 years now, originally getting started for fun. Mainly, I use JavaScript, Python, & Rust for my projects. Recently, I've been working on <a href="https://thetypingmatch.com">TheTypingMatch</a>, a minimal typing website with stats tracking, & in the past, I've built tools for <a href="http://dapp3rcraft.com">Dapp3rCraft</a>, a Minecraft smp community, & several Discord bots.
+  I am a self-taught developer & competitive typist. I have been learning about software development for ~4 years now, originally learning for fun. Mainly, I use JavaScript, Python, & Rust for my work. Recently, I have been working on <a href="https://thetypingmatch.com"><strong>TheTypingMatch</strong></a>, a minimal typing website with stats tracking, & in the past, I have built apps for <a href="http://dapp3rcraft.com"><strong>Dapp3rCraft</strong></a>, a Minecraft smp community, & several Discord bots.
 </p>
