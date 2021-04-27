@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  I am a self-taught developer & competitive typist. I have been learning about software development for ~4 years now, originally learning for fun. Mainly, I use JavaScript, Python, & Rust for my work. Recently, I have been working on <a href="https://thetypingmatch.com"><strong>TheTypingMatch</strong></a>, a minimal typing website with stats tracking, & in the past, I have built apps for <a href="http://dapp3rcraft.com"><strong>Dapp3rCraft</strong></a>, a Minecraft smp community, & several Discord bots.
+  I am a self-taught developer and competitive typist. I have been learning and writing code for ~4 years now, originally starting for fun. Primarily, I use JavaScript, Python, and Rust for my work. I enjoy writing tools and applications to make my life easier using the world of open source.
 </p>
