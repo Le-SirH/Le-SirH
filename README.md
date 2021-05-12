@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  I am a self-taught developer and competitive typist. I have been learning and writing code for ~4 years now, originally starting for fun. Primarily, I use JavaScript, Python, and Rust for my work. I enjoy writing tools and applications to make my life easier using the world of open source.
+  I am a self-taught developer and competitive typist, learning and writing code for over 4 years now. Primarily, I use JavaScript, Python, and Rust for my work. I enjoy writing tools and applications to make lives easier using the world of open source.
 </p>
